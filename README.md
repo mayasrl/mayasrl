@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/mayasrl/mayasrl/blob/main/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
 
 ###
 
