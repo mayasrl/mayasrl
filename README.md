@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria! 🙂</h1>
+<h1 align="center">Hi, I'm Maria! <img src="https://em-content.zobj.net/thumbs/120/apple/354/sparkles_2728-fe0f.png" height="30" alt="sparkles" /></h1>
 
 <p align="center">
   <em>
@@ -10,13 +10,14 @@
 ---
 
 <div align="center">
-  <!-- GitHub Stats -->
+  <h3>✨ GitHub Stats</h3>
   <img 
        src="https://github-readme-stats.vercel.app/api?username=mayasrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
        height="150" 
        alt="GitHub Stats" 
   />
-  <!-- Most Used Languages -->
+  <br />
+  <h3>💻 Top Languages</h3>
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=mayasrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
        height="150" 
@@ -30,11 +31,12 @@
      height="150" 
      src="https://i.pinimg.com/originals/6f/b9/74/6fb9743af1895e492bb759e5b42ee4d3.gif" 
      alt="Coding GIF" 
+     style="border-radius: 10px; margin-top: -50px"
 />
 
 ---
 
-### Tech & Tools
+### 🔧 Tech & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS" />
@@ -43,35 +45,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-</div>
-
----
-
-### Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### Spotify Recently Played
-
-<div align="center">
-  <a href="https://open.spotify.com/user/3q3cyjzor214es8zh4dy2kaue" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3q3cyjzor214es8zh4dy2kaue&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mayasrl/count.svg?" alt="Visitor Counter" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
