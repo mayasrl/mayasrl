@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Passionate about technology, web development, and all things code. 
+    Passionate about technology, web development, data science, and all things code. 
     Here you'll find a bit of everything I'm learning and creating!
   </em>
 </p>
@@ -54,6 +54,7 @@
 
 ---
 
+### 🐍 Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
@@ -73,4 +74,10 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/mayasrl/count.svg?" alt="Visitor Counter" />
+</p>
+
+---
+
+<p align="center">
+  Desenvolvido com 💛 por <strong>@mayasrl</strong>.
 </p>
