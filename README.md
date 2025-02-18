@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria! 🙂</h1>
+<h1 align="center">Hi, I'm Maria! ✨</h1>
 
 <p align="center">
   <em>
@@ -34,7 +34,7 @@
 
 ---
 
-### Tech & Tools
+### 🔧 Tech & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS" />
@@ -54,7 +54,6 @@
 
 ---
 
-### Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
@@ -62,7 +61,7 @@
 
 ---
 
-### Spotify Recently Played
+### 🎧 Currently Vibing
 
 <div align="center">
   <a href="https://open.spotify.com/user/3q3cyjzor214es8zh4dy2kaue" target="_blank">
