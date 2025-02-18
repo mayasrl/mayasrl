@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Passionate about technology, web development, data science, and all things code. 
+    Passionate about technology, web development, data science, and all things code. <br>
     Here you'll find a bit of everything I'm learning and creating!
   </em>
 </p>
