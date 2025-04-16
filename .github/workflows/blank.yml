@@ -1,34 +1,36 @@
-name: Generate snake animation
-
+name: Generate Snake Animation
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
+  schedule:
+    - cron: '0 2 * * *'      # Agendado para rodar diariamente às 02:00 UTC
+  workflow_dispatch:        # Permite disparo manual
   push:
     branches:
-    - master
+      - main                # Dispara em pushes no branch main
 
 jobs:
-  generate:
+  generate_snake:
     permissions:
-      contents: write
+      contents: write       # Permite que o job grave arquivos no repositório
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit output
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add output
+          git commit -m "chore: update snake animation [skip ci]" || echo "No changes to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
