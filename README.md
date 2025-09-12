@@ -8,22 +8,26 @@
 </p>
 
 ---
-
 <div align="center">
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=mayasrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-       height="150" 
-       alt="GitHub Stats" 
-  />
-
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mayasrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
-       height="150" 
-       alt="Top Languages" 
-  />
+  <table>
+    <tr>
+      <td>
+        <img 
+             src="https://github-readme-stats.vercel.app/api?username=mayasrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+             height="150" 
+             alt="GitHub Stats" 
+        />
+      </td>
+      <td>
+        <img 
+             src="https://github-readme-stats.vercel.app/api/top-langs?username=mayasrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+             height="150" 
+             alt="Top Languages" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
-
 <img 
      align="right" 
      height="150" 
@@ -55,19 +59,23 @@
 
 ### 🐍 Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/snake.svg" alt="Snake animation" />
+  </picture>
+</div>
 
 ---
 
 ### 👾 Pacman Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayasrl/mayasrl/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/pacman-contribution-graph.svg" alt="Pac‑Man animation" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayasrl/mayasrl/output/pacman-contribution-graph-dark.svg">
+    <img src="https://raw.githubusercontent.com/mayasrl/mayasrl/output/pacman-contribution-graph.svg" alt="Pac‑Man animation" />
+  </picture>
+</div>
 
 ---
 
@@ -81,9 +89,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mayasrl/count.svg?" alt="Visitor Counter" />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayasrl.mayasrl&"  />
+</div>
 
 ---
 
