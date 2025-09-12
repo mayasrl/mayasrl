@@ -76,12 +76,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayasrl.mayasrl&"  />
-</div>
-
----
-
 <p align="center">
   Desenvolvido com 💛 por <strong>@mayasrl</strong>.
 </p>
