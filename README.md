@@ -66,16 +66,6 @@
 
 ---
 
-### 🎧 Currently Vibing
-
-<div align="center">
-  <a href="https://open.spotify.com/user/3q3cyjzor214es8zh4dy2kaue" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3q3cyjzor214es8zh4dy2kaue&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
----
-
 <p align="center">
   Desenvolvido com 💛 por <strong>@mayasrl</strong>.
 </p>
