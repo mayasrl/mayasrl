@@ -1,3 +1,6 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=24" />
+
 <h1 align="center">Hi, I'm Maria! ✨</h1>
 
 <p align="center">
@@ -10,10 +13,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayasrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayasrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayasrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayasrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
-
 
 <img 
      align="right" 
@@ -75,7 +77,17 @@
 </div>
 
 ---
+### Profile Views
+
+<div align="center">
+  <img src="https://count.getloli.com/@:mayasrl?theme=capoo-2&padding=5&offset=-2&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+---
 
 <p align="center">
   Desenvolvido com 💛 por <strong>@mayasrl</strong>.
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=24" />
+
