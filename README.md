@@ -1,5 +1,4 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=24" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=24" />
 
 <h1 align="center">Hi, I'm Maria! ✨</h1>
 
@@ -25,6 +24,7 @@
 />
 
 ---
+
 ### 🔧 Tech & Tools
 
 <p align="center">
@@ -53,7 +53,6 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
-
 ---
 
 ### 🐍 Snake Animation
@@ -77,7 +76,7 @@
 </div>
 
 ---
-### Profile Views
+### 👀 Profile Views
 
 <div align="center">
   <img src="https://count.getloli.com/@:mayasrl?theme=capoo-2&padding=5&offset=-2&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
@@ -89,5 +88,4 @@
   Desenvolvido com 💛 por <strong>@mayasrl</strong>.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=24" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient&customColorList=24" />
